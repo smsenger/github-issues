@@ -1,0 +1,27 @@
+.first-container {
+    border: 1px solid #ccc;
+    display: flex;
+    text-align: left;
+    margin-right: 40px;
+    margin-left: 40px;
+    border: 1px solid #ccc;
+}
+
+.first-container:hover {
+    background-color: rgb(243, 243, 243);
+}
+
+.exclamation {
+    margin: 10px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.url {
+    font-size: 11px;
+    margin: 10px;
+}
