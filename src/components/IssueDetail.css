@@ -1,0 +1,87 @@
+* {
+font-family: 'Roboto', sans-serif;
+}
+
+.header-div {
+text-align: left;
+background-color: #282c34;
+min-height: 10vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+color: white;
+}
+
+.git-title {
+font-size: 20px;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+.header-options {
+display: flex;
+font-size: 15px;
+font-weight: 100;
+width: 100vw;
+overflow: scroll;
+justify-content: center;
+}
+
+.header-option {
+margin-right: 2%;
+margin-left: 2%;
+}
+
+.title {
+font-size: 30px;
+font-weight: 400;
+margin-right: 60px;
+margin-left: 60px;
+}
+
+.number {
+color: #ccc;
+font-weight: 300;
+}
+
+.outer {
+    width: 60%;
+    margin-left: 250px;
+}
+
+.user-info {
+font-size: 18px;
+font-weight: 200;
+margin-right: 60px;
+margin-left: 60px;
+margin-bottom: 25px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+}
+
+.body-div {
+text-align: left;
+/* margin-left: 60px;
+margin-right: 60px; */
+border: 1px solid #ccc;
+padding: 20px;
+width: 40%;
+margin-right: 40px;
+}
+
+#markdown {
+font-weight: 20px;
+}
+
+.sidebar {
+    width: 10%;
+}
+
+.div-border {
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+}

@@ -1,0 +1,70 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-div {
+    text-align: left;
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    }
+    
+    .git-title {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    }
+    
+    .header-options {
+    display: flex;
+    font-size: 15px;
+    font-weight: 100;
+    width: 100vw;
+    overflow: scroll;
+    justify-content: center;
+    }
+    
+    .header-option {
+    margin-right: 2%;
+    margin-left: 2%;
+    }
+
+.outer-div {
+    border: 1px solid #ccc;
+    margin-top: 15px;
+    margin-right: 15px;
+    min-width: 513px;
+    max-width: 900.59px;
+    display: flex;
+}
+
+.outer-div,
+.users-div {
+    margin-left: 30px;
+}
+
+.form {
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    width: 50%;
+    padding: 15px;
+    box-shadow: 5px 10px 18px rgb(150, 149, 149);
+}
+
+.user-image {
+    margin: 10px;
+}
+
+img {
+    border: 2px solid rgb(150, 149, 149);
+    max-width: 219px;
+    max-height: 219px;
+}
+
+.user-content {
+
+}
